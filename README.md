@@ -1,6 +1,9 @@
 # Saraz Pasni Rental — deployed website
 
-**Live site:** https://sushant-me.github.io/saraz-pasni-rental/
+**Live site URLs (free hosting):**
+
+- https://saraz-pasni-rental.netlify.app  ← primary, root path
+- https://sushant-me.github.io/saraz-pasni-rental/  ← GitHub Pages mirror
 
 This repository contains only the production build of the **Saraz Pasni Rental**
 website — a React + Vite site for authentic traditional Nepali Pasni sets and
